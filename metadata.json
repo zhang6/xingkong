@@ -1,0 +1,7 @@
+{
+  "name": "Van Gogh's Ethereal Starry Vortex",
+  "description": "An interactive 3D particle system inspired by Van Gogh's Starry Night, featuring swirling vortices, flickering stars, and hand-gesture driven zoom.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
